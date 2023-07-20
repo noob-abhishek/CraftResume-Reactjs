@@ -46,7 +46,6 @@ export default function Footer() {
                     <SocialButton label={'Github'} href={'https://github.com/noob-abhishek'}>
                         <FaGithub />
                     </SocialButton>
-                    </SocialButton>
                     <SocialButton label={'Instagram'} href={'https://www.instagram.com/deadpoolwasinnocent'}>
                         <FaInstagram />
                     </SocialButton>
